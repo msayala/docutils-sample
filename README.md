@@ -3,7 +3,7 @@
 Using docutils to parse docstrings
 
 See here for some limited docs and examples:
-https://docutils.sourceforge.io/docs/index.html#development-notes-and-plans-for-core-developers
+https://docutils.sourceforge.io/docs/dev/hacking.html
 
 
 To run:
